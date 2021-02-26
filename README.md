@@ -21,6 +21,6 @@ O aplicativo contém um banco de dados com o intuito de gravar informações de 
 ![alt text](https://github.com/Daniel-RPS/YouDo-App/blob/master/Tela%20principal.jpg)
 
 
-O link [CompressaoMaquina.aia](https://github.com/Daniel-RPS/YouDo-App/blob/master/CompressaoMaquina.aia) é usado para acessar o aplicativo no MIT App Inventor, na sua parte de design e programação em bloco. Para isso, é necessário baixar o link, ter uma conta no MIT App Inventor, ir na aba Projetos e, por fim, ir na aba Importar projeto (.aia) do meu computador.
+O link [CompressaoMaquina.aia](https://github.com/Daniel-RPS/YouDo-App/blob/master/CompressaoMaquina.aia) é usado para acessar o aplicativo no MIT App Inventor e integragir com seu design e sua programação em blocos. Para isso, é necessário baixar o link, ter uma conta no MIT App Inventor, ir na aba Projetos e, por fim, ir na aba Importar projeto (.aia) do meu computador.
 
 O link [CompressaoMaquina.apk](https://github.com/Daniel-RPS/YouDo-App/blob/master/CompressaoMaquina.apk) é o link do aplicativo no celular/tablet. Basta baixá-lo pelo aplicativo móvel que ele será automaticamente instalado.
